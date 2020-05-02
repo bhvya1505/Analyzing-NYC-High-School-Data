@@ -1,4 +1,6 @@
 # Analyzing-NYC-High-School-Data
+## Work in Progress
+
 This project uses pandas, Numpy, re, matplotlib, Basemap.
 
 For this project we will be using data about New York City public schools.
